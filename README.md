@@ -38,7 +38,7 @@
 
 ## 🔗 Ссылка на игру
 
-➡️ **[Симулятор Скама на Yandex Games](https://yandex.ru/games/app/491755)**
+➡️ **[Симулятор Скама на Yandex Games](https://yandex.ru/games/app/491755?draft=true&lang=ru)**
 
 ## 📁 Содержимое репозитория
 
@@ -104,7 +104,7 @@ The project was created for the **Yandex Games** platform.
 
 ## 🔗 Game link
 
-➡️ **[Scam Simulator on Yandex Games](https://yandex.ru/games/app/491755)**
+➡️ **[Scam Simulator on Yandex Games](https://yandex.ru/games/app/491755?draft=true&lang=ru)**
 
 ## 📁 Repository contents
 
