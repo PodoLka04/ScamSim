@@ -40,26 +40,26 @@
 
 ➡️ **[Симулятор Скама на Yandex Games](https://yandex.ru/games/app/491755)**
 
-## 📁 Содержимое репозитория игры Scam
+## 📁 Содержимое репозитория
 
 | Файл / Папка | Описание |
 |--------------|----------|
-| `Assets/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки) |
-| `Packages/` | Зависимости проекта (Package Manager) |
-| `ProjectSettings/` | Настройки проекта (входная сцена, теги, слои, управление) |
+| `ScamSimulator/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
 | `Screenshots/` | Скриншоты игры для README |
+| `.gitignore` | Файл игнорирования Git |
+| `README.md` | Описание проекта |
 
 ## 🚀 Сборка и запуск
 
 1. Скачайте репозиторий.
-2. Откройте проект в Unity (версию смотрите в `ProjectSettings/ProjectVersion.txt`).
-3. Для запуска в редакторе откройте сцену `Assets/Scenes/MainScene.unity` и нажмите `Play`.
+2. Откройте проект в Unity (версию смотрите в `ScamSimulator/ProjectSettings/ProjectVersion.txt`).
+3. Для запуска в редакторе откройте сцену `ScamSimulator/Assets/Scenes/MainScene.unity` и нажмите `Play`.
 4. Для публикации на Yandex Games соберите проект в **WebGL** через `File → Build Settings`.
 5. Загрузите сборку в личном кабинете разработчика Yandex Games.
 
 ## 🛠 Используемые технологии
 
-- Unity (версия из `ProjectVersion.txt`)
+- Unity (версия из `ScamSimulator/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
@@ -106,30 +106,30 @@ The project was created for the **Yandex Games** platform.
 
 ➡️ **[Scam Simulator on Yandex Games](https://yandex.ru/games/app/491755)**
 
-## 📁 Repository contents of Scam
+## 📁 Repository contents
 
 | File / Folder | Description |
 |---------------|-------------|
-| `Assets/` | All project resources (scripts, scenes, sprites, audio) |
-| `Packages/` | Project dependencies (Package Manager) |
-| `ProjectSettings/` | Project settings (start scene, tags, layers, input) |
+| `ScamSimulator/` | All project resources (scripts, scenes, sprites, audio, settings) |
 | `Screenshots/` | Game screenshots for README |
+| `.gitignore` | Git ignore file |
+| `README.md` | Project description |
 
 ## 🚀 Build and run
 
 1. Download the repository.
-2. Open the project in Unity (check the version in `ProjectSettings/ProjectVersion.txt`).
-3. To run in the editor, open `Assets/Scenes/MainScene.unity` and press `Play`.
+2. Open the project in Unity (check the version in `ScamSimulator/ProjectSettings/ProjectVersion.txt`).
+3. To run in the editor, open `ScamSimulator/Assets/Scenes/MainScene.unity` and press `Play`.
 4. For publishing on Yandex Games, build the project to **WebGL** via `File → Build Settings`.
 5. Upload the build to your Yandex Games developer dashboard.
 
 ## 🛠 Technologies used
 
-- Unity (version from `ProjectVersion.txt`)
+- Unity (version from `ScamSimulator/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
 
 ## 📌 Author
 
-Dmitrii Podolin  
+Dmitrii Podolin
