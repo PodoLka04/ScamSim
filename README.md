@@ -8,7 +8,7 @@
 
 # Симулятор Скама
 
-Проект создан для публикации на платформе **Yandex Games**.
+Проект создан для публикации на платформе **Yandex Games** для коммерции.
 
 **Платформа:** WebGL (для ПК и мобильных устройств)
 
@@ -74,7 +74,7 @@
 
 # Scam Simulator
 
-The project was created for the **Yandex Games** platform.
+The project was created for the **Yandex Games** platform in profit.
 
 **Platform:** WebGL (for PC and mobile devices)
 
