@@ -26,9 +26,10 @@
 - **Бонусы:** Смотрите рекламу, чтобы получать бонусные монеты.
 
 ## 🖼️ Скриншоты
+<img width="1920" height="1080" alt="image (9)" src="https://github.com/user-attachments/assets/b45d47c8-4e04-40be-a293-30788ecf09a8" />
+<img width="1920" height="1080" alt="image (8)" src="https://github.com/user-attachments/assets/4f6fd908-bd2e-4444-aff6-32bc70ddf84d" />
+<img width="1920" height="1080" alt="image (7)" src="https://github.com/user-attachments/assets/8b51fabb-bc09-4c70-b272-15d82cdea3e9" />
 
-![Скриншот геймплея 1](Screenshots/screenshot1.png)
-![Скриншот геймплея 2](Screenshots/screenshot2.png)
 
 ## 🎮 Управление
 
@@ -44,22 +45,21 @@
 
 | Файл / Папка | Описание |
 |--------------|----------|
-| `ScamSimulator/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
-| `Screenshots/` | Скриншоты игры для README |
+| `Scam/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
 | `.gitignore` | Файл игнорирования Git |
 | `README.md` | Описание проекта |
 
 ## 🚀 Сборка и запуск
 
 1. Скачайте репозиторий.
-2. Откройте проект в Unity (версию смотрите в `ScamSimulator/ProjectSettings/ProjectVersion.txt`).
-3. Для запуска в редакторе откройте сцену `ScamSimulator/Assets/Scenes/MainScene.unity` и нажмите `Play`.
+2. Откройте проект в Unity (версию смотрите в `Scam/ProjectSettings/ProjectVersion.txt`).
+3. Для запуска в редакторе откройте сцену `Scam/Assets/Scenes/MainScene.unity` и нажмите `Play`.
 4. Для публикации на Yandex Games соберите проект в **WebGL** через `File → Build Settings`.
 5. Загрузите сборку в личном кабинете разработчика Yandex Games.
 
 ## 🛠 Используемые технологии
 
-- Unity (версия из `ScamSimulator/ProjectSettings/ProjectVersion.txt`)
+- Unity (версия из `Scam/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
@@ -92,9 +92,10 @@ The project was created for the **Yandex Games** platform in profit.
 - **Bonuses:** Watch ads to earn bonus coins.
 
 ## 🖼️ Screenshots
+<img width="1920" height="1080" alt="image (9)" src="https://github.com/user-attachments/assets/b45d47c8-4e04-40be-a293-30788ecf09a8" />
+<img width="1920" height="1080" alt="image (8)" src="https://github.com/user-attachments/assets/4f6fd908-bd2e-4444-aff6-32bc70ddf84d" />
+<img width="1920" height="1080" alt="image (7)" src="https://github.com/user-attachments/assets/8b51fabb-bc09-4c70-b272-15d82cdea3e9" />
 
-![Gameplay screenshot 1](Screenshots/screenshot1.png)
-![Gameplay screenshot 2](Screenshots/screenshot2.png)
 
 ## 🎮 Controls
 
@@ -110,22 +111,21 @@ The project was created for the **Yandex Games** platform in profit.
 
 | File / Folder | Description |
 |---------------|-------------|
-| `ScamSimulator/` | All project resources (scripts, scenes, sprites, audio, settings) |
-| `Screenshots/` | Game screenshots for README |
+| `Scam/` | All project resources (scripts, scenes, sprites, audio, settings) |
 | `.gitignore` | Git ignore file |
 | `README.md` | Project description |
 
 ## 🚀 Build and run
 
 1. Download the repository.
-2. Open the project in Unity (check the version in `ScamSimulator/ProjectSettings/ProjectVersion.txt`).
-3. To run in the editor, open `ScamSimulator/Assets/Scenes/MainScene.unity` and press `Play`.
+2. Open the project in Unity (check the version in `Scam/ProjectSettings/ProjectVersion.txt`).
+3. To run in the editor, open `Scam/Assets/Scenes/MainScene.unity` and press `Play`.
 4. For publishing on Yandex Games, build the project to **WebGL** via `File → Build Settings`.
 5. Upload the build to your Yandex Games developer dashboard.
 
 ## 🛠 Technologies used
 
-- Unity (version from `ScamSimulator/ProjectSettings/ProjectVersion.txt`)
+- Unity (version from `Scam/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
